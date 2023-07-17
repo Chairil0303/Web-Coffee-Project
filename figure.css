@@ -1,0 +1,27 @@
+div.bendera {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    height: 10px;
+}
+
+.hijau {
+    background-color: hsl(133, 37%, 42%);
+}
+
+.putih {
+    background-color: #fff;
+}
+
+.merah {
+    background-color: #c04747;
+}
+
+.backgroundCoffe {
+    background-image: url("coffe.jpg");
+    background-color: #cccccc;
+    height: 300px;
+    /* background-position: center; */
+    background-repeat: repeat;
+    background-size: cover;
+    position: relative;
+}

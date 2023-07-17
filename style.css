@@ -1,0 +1,11 @@
+@import url("style/1mobileView.css");
+@import url("style/header.css");
+@import url("style/jumbotron.css");
+@import url("style/figure.css");
+@import url("style/sArticle.css");
+/* @import url("style/smalldevice.css"); */
+
+* {
+    padding: 0;
+    margin: 0;
+}
